@@ -425,3 +425,22 @@ Small Device Styles
   }
 
 }
+/**********************Custom stylesheet*********************/
+#leftpnl,#centerpnl{
+  float:left;
+}
+#leftpnl a{
+  display:block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
